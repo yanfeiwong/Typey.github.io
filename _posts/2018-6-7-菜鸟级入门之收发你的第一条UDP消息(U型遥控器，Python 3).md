@@ -101,7 +101,7 @@ while 1:
 
 #### 上面的代码理论上可以在任何有网络权限的Python3上执行
 
-> *实际使用时可以把发送部分定义成函数，在不方便使用显示器获取输出结果时，它就排上用场了
+> *实际使用时可以把发送部分定义成函数，在不方便使用显示器获取输出结果时，它就派上用场了
 
 <figure class="half center">
 	<a href="{{ site.url }}/images/p1_u_cn/02.jpg"> <img src="{{ site.url }}/images/p1_u_cn/02.jpg" alt=""></a>
