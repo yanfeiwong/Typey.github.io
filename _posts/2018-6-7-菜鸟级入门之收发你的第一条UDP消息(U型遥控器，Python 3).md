@@ -79,6 +79,7 @@ os.system("sudo kill -9 $(lsof -ti udp:被占用的端口号)")
 #### 确认所有数据填写无误以后，发送我们的第一条消息吧！（不要忘记发送exit来退出）
 <figure class="half center">
 	<a href="{{ site.url }}/images/p1_u_cn/01.jpg"> <img src="{{ site.url }}/images/p1_u_cn/01.jpg" alt=""></a>
+	<figcaption>执行结果</figcaption>
 </figure>
 ### Python 3 简单发送代码
 {% highlight python %}
@@ -99,6 +100,9 @@ while 1:
 {% endhighlight %}
 
 #### 上面的代码理论上可以在任何有网络权限的Python3上执行
+
+> *实际使用时可以把发送部分定义成函数，在不方便使用显示器获取输出结果时，它就排上用场了
+
 <figure class="half center">
 	<a href="{{ site.url }}/images/p1_u_cn/02.jpg"> <img src="{{ site.url }}/images/p1_u_cn/02.jpg" alt=""></a>
 	<figcaption>执行结果</figcaption>
