@@ -107,7 +107,7 @@ while 1:
 	<a href="{{ site.url }}/images/p1_u_cn/02.jpg"> <img src="{{ site.url }}/images/p1_u_cn/02.jpg" alt=""></a>
 	<figcaption>执行结果</figcaption>
 </figure>
-## 菜鸟级教程到此就结束啦，很快跟新下一篇 :)
+## 菜鸟级教程到此就结束啦，很快更新下一篇 :)
 ### APP下载
 <a href='https://play.google.com/store/apps/details?id=com.typey.tool.uswitch&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="83" width="215"/></a>
 <a href='https://www.coolapk.com/apk/188229'><img alt='Get it on CoolApk' src='{{ site.url }}/images/coolan.png' height="80" width="150"/></a>
