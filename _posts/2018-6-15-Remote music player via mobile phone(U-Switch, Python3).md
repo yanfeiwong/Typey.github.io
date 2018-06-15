@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote music player via mobile phone(U-Switch, Python3)
+title: Remote music playe via mobile phone(U-Switch, Python3)
 description: "DIY a mobile remote music player controller!"
 modified: 2018-6-15
 tags: udp python3 U-Switch
@@ -157,6 +157,7 @@ Of course, the most convenient thing is to make the commands into buttons :)
 	<figcaption>Music Remote</figcaption>
 </figure>
 
-###U-Switch is now available on:
+### U-Switch is now available on:
+
 <a href='https://play.google.com/store/apps/details?id=com.typey.tool.uswitch&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="83" width="215"/></a>
 <a href='https://www.coolapk.com/apk/188229'><img alt='Get it on CoolApk' src='{{ site.url }}/images/coolan.png' height="80" width="150"/></a>
