@@ -2,7 +2,7 @@
 layout: post
 title: 菜鸟级入门之收发你的第一条UDP消息(U型遥控器，Python 3)
 description: "菜鸟级的入门，大神误入！"
-modified: 2016-12-02
+modified: 2018-6-7
 tags: udp python3 U型遥控器
 categories: U-Switch.cn
 lang: zh
