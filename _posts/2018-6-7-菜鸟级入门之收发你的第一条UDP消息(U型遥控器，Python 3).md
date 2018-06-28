@@ -33,11 +33,14 @@ image:
 <a href='https://www.coolapk.com/apk/188229'><img alt='Get it on CoolApk' src='{{ site.url }}/images/coolan.png' height="80" width="150"/></a>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4098168680602409"
+     data-ad-slot="1784191902"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-4098168680602409",
-          enable_page_level_ads: true
-     });
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 ## 接收你的第一条UDP消息
