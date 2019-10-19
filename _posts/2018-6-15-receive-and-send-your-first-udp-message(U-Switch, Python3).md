@@ -43,10 +43,10 @@ udpServer = socket(AF_INET,SOCK_DGRAM)
 udpServer.bind(addr)#Start listening
 while 1:
     data,addr = udpServer.recvfrom(bufsize) ## Receive data
-	data=data.decode() # The data received is a bytes type encoded here as utf8
+    data=data.decode() # The data received is a bytes type encoded here as utf8
     if data == "exit": # Close port and exit program after receiving exit
         udpServer.close() # If you forget to close the port, could try this in idle
-		print("Exited")
+        print("Exited")
         exit(0) 
     else:
         print(data)
