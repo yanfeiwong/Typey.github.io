@@ -17,7 +17,7 @@ image:
 这个控件包含两个内容：
 
     1.一个返回手机屏幕上x和y方向滑动量的全屏控件
-    2.一个简易的图传（我们将在另一篇文章里介绍）
+    2.一个简易的图传（我们将在<a href="https://yanfeiwong.github.io//u-switch.cn/JPEG图传(U型遥控器,Python-3)/" target="_blank"><font color="red">另一篇文章</font></a>里介绍）
     
 我们可以用它来做什么？
 

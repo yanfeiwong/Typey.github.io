@@ -32,7 +32,7 @@ image:
     <figcaption>图传设置</figcaption>
 </figure>
 
-1.现版本（v1.2.7）图传包括在FPSView中，前两行用作实现<a href="https://yanfeiwong.github.io//u-switch.cn/FPS-Game-View(第一人称射击游戏控件,U型遥控器,Python-3)/" target="_blank"><font color="red">类似于触控板的功能</font></a>，对于图传无关紧要，可以随意填写。
+1.现版本（v1.2.7）图传功能包括在FPSView中，前两行用作实现<a href="https://yanfeiwong.github.io//u-switch.cn/FPS-Game-View(第一人称射击游戏控件,U型遥控器,Python-3)/" target="_blank"><font color="red">类似于触控板的功能</font></a>，对于图传无关紧要，可以随意填写。
 
 2.这里最重要的是开启图传，把接收端口设置为9921（如脚本），注意接收端口可以更改，
 但是不可以<font color="red">小于四位数</font>，不可以是已经被<font color="red">占用</font>的端口（检查你的会话界面）。
