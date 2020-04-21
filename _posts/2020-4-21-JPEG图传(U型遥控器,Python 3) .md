@@ -26,7 +26,7 @@ image:
 这篇文章将会讲解图传的设置，并且展示两个用于实时图传的Python脚本，分别使用OpenCV和树莓派原生的PiCamera模块。
 
 
-## U-Switchd端设置
+## U-Switch端的设置
 <figure class="half center">
 	<a href="{{ site.url }}/images/p3_u_cn/FPS.jpg"> <img src="{{ site.url }}/images/p3_u_cn/FPS.jpg" alt=""></a>
     <figcaption>图传设置</figcaption>
