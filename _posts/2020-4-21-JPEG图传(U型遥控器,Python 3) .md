@@ -9,7 +9,7 @@ lang: zh
 image:
     feature: hdpage.jpg
 ---
->JPEG格式由于其高效的压缩效率和标准化要求，目前已广泛用于彩色传真、静止图像、电话会议、印刷及新闻图片的传送。
+>JPEG格式由于其高效的压缩效率和标准化要求，目前已广泛用于彩色传真、静止图像、电话会议、印刷及新闻图片的传送
 
 
 ## 为什么使用JPEG图传
@@ -45,17 +45,20 @@ image:
 <a href='https://www.coolapk.com/apk/188229'><img alt='Get it on CoolApk' src='{{ site.url }}/images/coolan.png' height="80" width="150"/></a>
 
 ## 使用OpenCV实现图传的示例脚本及注释
->v1.2.7版本以后可以向图传端口发送clear来清理手机上显示的图片。
+>v1.2.7版本以后可以向图传端口发送clear来清理手机上显示的图片
 
 {% highlight python %}
 #导入必备库
 import cv2,math,time
 from socket import *
+
 #启用摄像头
 cap = cv2.VideoCapture(0)
+
 #设置视频捕捉的分辨率
 cap.set(3,690)
 cap.set(4,360)
+
 #UDP配置
 host  = '192.168.3.17' #手机上显示的IP
 port = 9921 #手机上设置的端口
@@ -88,7 +91,6 @@ from picamera import PiCamera
 from socket import *
 from io import BytesIO
 
-
 #UDP配置
 host  = '你手机的ip'
 port = 9921 #手机上设置的端口
@@ -102,7 +104,6 @@ res_y=480
 framerate=40 #拍摄帧率，低帧率会模糊
 iso=400   #拍摄iso
 jpeg_quality=20 #照片质量，太大会卡顿
-
 
 with PiCamera() as camera:
     #配置相机
