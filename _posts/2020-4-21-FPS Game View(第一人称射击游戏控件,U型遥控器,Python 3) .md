@@ -29,6 +29,8 @@ image:
 
 这篇文章将会展示一个通过python脚本控制双舵机云台的示例，其他的示例也将会在未来编写添加。
 
+> 1.2.8 版本后会在按下和弹起时发送“down”和“up”
+
 <figure class="half center">
 	<a href="{{ site.url }}/images/u_FPS_cn/接收数据.png"> <img src="{{ site.url }}/images/u_FPS_cn/接收数据.png" alt=""></a>
     <figcaption>接收到的数据示例</figcaption>
